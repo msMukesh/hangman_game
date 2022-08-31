@@ -1,2 +1,2 @@
-# hangman_game
-it is a game
+# HANGMAN_GAME
+ This repository controls the version of hangman game
